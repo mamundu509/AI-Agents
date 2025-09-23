@@ -1,119 +1,135 @@
 # 🧠 Mohammad Mamun's AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions! As a data professional with 5+ years of experience turning business requirements into actionable solutions, I've developed a suite of AI agents designed to streamline workflows and boost productivity across various business functions.
-
----
-
-## 👋 About Me
-
-I'm Mohammad Mamun, a data analyst and AI enthusiast based in Australia. With expertise in SQL, Python, SAS, and data visualization tools like Tableau, I specialize in transforming complex business challenges into intelligent, automated solutions. My background spans advanced analytics, forecasting, and machine learning, which I now leverage to create practical AI agents that solve real-world problems.
-
-My passion lies in making data-driven insights accessible and actionable through innovative AI applications that save time and enhance decision-making processes.
+Welcome to my collection of intelligent AI agents designed to streamline workflows and boost productivity. With 5+ years of experience in data solutions and analytics, I've channeled my expertise into creating practical AI tools that solve real business challenges. Each agent is crafted to automate complex tasks, enhance decision-making, and save valuable time.
 
 ---
 
 ## 🚀 Featured AI Agents
 
-### TL,DR  
-**Description**: An intelligent summarization agent that quickly distills lengthy content into concise, actionable insights.
+### Youtube Summarizer  
+**Description**: An intelligent agent that analyzes YouTube video content and comments to provide comprehensive summaries and key insights.
 
-**Use Case**: Perfect for executives who need to quickly understand lengthy reports, research papers, or meeting transcripts without spending hours reading through everything.
-
-**Key Features:**
-- Extracts key points from any text content
-- Maintains context and important details
-- Provides structured summaries
-- Saves hours of reading time
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/tldr-95e80d3d)
-
----
-
-### Youtube Summarizer
-**Description**: Comprehensive YouTube content analyzer that summarizes both video content and viewer comments to provide complete insights.
-
-**Use Case**: Ideal for content creators, marketers, or researchers who need to quickly understand video content and audience sentiment without watching entire videos.
+**Use Case**: Perfect for researchers, content creators, or busy professionals who need to quickly extract valuable information from lengthy videos without watching them entirely.
 
 **Key Features:**
-- Summarizes video transcripts and key messages
-- Analyzes comment sentiment and themes
-- Identifies trending topics in discussions
-- Provides comprehensive content overview
+- Video content analysis and summarization
+- Comment sentiment analysis
+- Key insights extraction
+- Time-saving content digestion
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/summarize-youtube-video-and-comments-7db05b30)
 
 ---
 
-### Email - TLDR
-**Description**: Specialized email content summarizer that transforms lengthy email threads into clear, actionable summaries.
+### Email - TLDR  
+**Description**: Streamlines email management by providing concise summaries of lengthy email contents, helping you process your inbox efficiently.
 
-**Use Case**: Perfect for busy professionals managing high email volumes who need to quickly identify priorities and action items from complex email chains.
+**Use Case**: Ideal for executives and busy professionals who receive high volumes of emails and need to quickly understand key points without reading entire messages.
 
 **Key Features:**
-- Extracts key decisions and action items
-- Identifies important deadlines and commitments
-- Summarizes complex email threads
-- Highlights critical information requiring attention
+- Intelligent email content analysis
+- Key point extraction
+- Concise summary generation
+- Inbox productivity enhancement
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/email--tldr-c3950eb7)
 
 ---
 
-### Blog Post Generator
-**Description**: AI-powered content creation tool that generates engaging, well-structured blog posts tailored to your specific needs and audience.
+### Blog Post Generator  
+**Description**: Creates engaging, well-structured blog posts tailored to your specific topics, audience, and brand voice.
 
-**Use Case**: Content marketers and business owners can quickly create high-quality blog content to maintain consistent publishing schedules and engage their audience.
+**Use Case**: Perfect for content marketers, small business owners, and bloggers who need to maintain consistent content output while ensuring quality and relevance.
 
 **Key Features:**
-- Creates SEO-optimized content
-- Adapts tone and style to target audience
-- Generates compelling headlines and structure
-- Incorporates relevant keywords naturally
+- Topic-based content generation
+- SEO-optimized structure
+- Brand voice adaptation
+- Engaging writing style
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/blog-post-generator-99c49f5a)
 
 ---
 
-### Dynamic Content Generator
-**Description**: Versatile content creation system that adapts to various content types and formats based on specific requirements and contexts.
+### Dynamic Content Generator  
+**Description**: Versatile content creation tool that adapts to various formats and requirements, generating dynamic content for multiple platforms and purposes.
 
-**Use Case**: Marketing teams can generate diverse content types - from social media posts to product descriptions - all tailored to different platforms and audiences.
+**Use Case**: Excellent for marketing teams and content creators who need to produce diverse content types across different channels and platforms.
 
 **Key Features:**
 - Multi-format content creation
-- Context-aware content adaptation
-- Brand voice consistency
 - Platform-specific optimization
+- Adaptive content structure
+- Versatile output options
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/dynamic-content-genrator-982d1079)
 
 ---
 
-### New Lead Cold Email Generator
-**Description**: Intelligent sales email generator that creates personalized, compelling cold outreach emails designed to convert prospects into leads.
+### New Lead Cold Email Generator  
+**Description**: Crafts personalized, compelling cold emails designed to engage potential sales leads and drive conversions.
 
-**Use Case**: Sales professionals can dramatically improve their outreach efficiency by generating personalized cold emails that resonate with prospects and increase response rates.
+**Use Case**: Essential for sales teams and business development professionals looking to improve their outreach success rates and generate more qualified leads.
 
 **Key Features:**
-- Personalized messaging based on prospect data
-- A/B testing variations
-- Industry-specific templates
-- Conversion-optimized subject lines and content
+- Personalized email crafting
+- Lead-specific messaging
+- Conversion-focused content
+- Professional tone optimization
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/new-lead-cold-email-generator-c446a2e0)
 
 ---
 
-## 📞 Contact Me
+### Research Report Generator  
+**Description**: Produces comprehensive, well-structured research reports by analyzing data and presenting findings in a professional format.
 
-Ready to transform your business processes with custom AI solutions? I specialize in creating intelligent agents that solve specific business challenges and automate complex workflows.
+**Use Case**: Valuable for analysts, consultants, and researchers who need to compile complex information into clear, actionable reports for stakeholders.
 
-**I can help you with:**
-- **Custom AI agent development**
-- **Data analysis and visualization automation**
-- **Business process optimization through AI**
-- **Content generation and summarization solutions**
+**Key Features:**
+- Data analysis and synthesis
+- Professional report formatting
+- Key findings highlighting
+- Actionable insights generation
 
-[📬 Contact me](mailto:contact@mohammadmamun.com) or [Connect on LinkedIn](https://www.linkedin.com/in/momamun)
+[🔗 Try it out](https://app.mindstudio.ai/agents/research-report-genrator-bfb9ba48)
 
-*Let's discuss how AI can streamline your operations and drive better business outcomes.*
+---
+
+### Daily News Digest Generator  
+**Description**: Automatically curates and sends personalized daily news digests via email, keeping you informed with relevant updates.
+
+**Use Case**: Perfect for executives, researchers, and professionals who need to stay updated on industry trends and news without spending hours browsing multiple sources.
+
+**Key Features:**
+- Automated news curation
+- Email delivery automation
+- Personalized content filtering
+- Daily scheduling capability
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/generate-and-send-a-daily-news-digest-via-email-92a4aec2)
+
+---
+
+### People Name Extractor & Database Integration  
+**Description**: Intelligently extracts people's names mentioned in web pages and automatically stores them in your database for lead generation and contact management.
+
+**Use Case**: Ideal for sales teams, recruiters, and marketing professionals who need to build contact databases from web content and online sources.
+
+**Key Features:**
+- Automated name extraction
+- Database integration
+- Web page analysis
+- Contact list building
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/extract-people-mentioned-in-a-webpage--send-to-database-0138979a)
+
+---
+
+### Slack Block Summary Agent  
+**Description**: Analyzes and summarizes Slack conversations and blocks, helping teams stay updated on important discussions without reading through entire threads.
+
+**Use Case**: Essential for team leaders and busy professionals who need to stay informed about multiple Slack channels and conversations efficiently.
+
+**Key Features:**
+- [Generating](#__caret)
